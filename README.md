@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a senior web/software developer in the news & audiovisual industry.
+
 
 <!--
 **Oscuro87/Oscuro87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
