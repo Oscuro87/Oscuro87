@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm a senior web/software developer in the news & audiovisual industry.
 
+<small>Profile image credit: ["Brussels by night" by Nitin Paul](https://www.flickr.com/photos/nitin_paul/31568673675)</small>
 
 <!--
 **Oscuro87/Oscuro87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
