@@ -8,11 +8,11 @@ I'm a senior web/software developer in the news & audiovisual industry.
 * Telegram: [Join channel](https://t.me/joinchat/GCtAhgegBXkyMDU0)
 
 ### What I like (besides computer stuff)
-* 📈 Finance & investments
-* ₿ Cryptocurrencies
 * 🏠 Home Automation
 * 🧬 Biotechnologies
 * 🤖 Robotics / AI
+* 📈 Finance & investments
+* ₿ Cryptocurrencies
 * 🎵 Electronic Music
 * 🎮 Video Games
 * 👅 Learning Languages
