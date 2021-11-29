@@ -12,7 +12,7 @@ I'm a senior web/software developer in the news & audiovisual industry.
 * 🧬 Biotechnologies
 * 🤖 Robotics / AI
 * 📈 Finance & investments
-* ₿ Cryptocurrencies
+* ₿ Blockchain & Cryptocurrencies
 * 🎵 Electronic Music
 * 🎮 Video Games
 * 👅 Learning Languages
