@@ -5,7 +5,7 @@ I'm a senior web/software developer in the news & audiovisual industry.
 * [LinkedIn](https://www.linkedin.com/in/emmanuelcapelle1)
 * Discord: [Join server](https://discord.gg/jchFsrzxtE)
   * After getting in, write `!notabot` to get basic permissions
-* Telegram: [Join channel](https://t.me/joinchat/GCtAhgegBXkyMDU0)
+* Telegram: [Join channel](https://t.me/+ekR3vDtRhYhkZDNk)
 
 ### What I like (besides computer stuff)
 * 🏠 Home Automation
