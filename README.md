@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a senior web/software developer in the news & audiovisual industry.
+I'm a senior developer at a company called [Efficy](https://www.efficy.com/)
 
 ### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/emmanuelcapelle1)
