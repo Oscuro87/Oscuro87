@@ -12,12 +12,13 @@ I'm a senior developer at [Efficy](https://www.efficy.com/)
 * 🧬 Biotechnologies
 * 🤖 Robotics / AI
 * 📈 Finance & investments
-* ₿ Blockchain & Cryptocurrencies
+* ₿ Blockchain
 * 🔍 OSINT
 * 🎵 Electronic Music
 * 🎮 Video Games
 * 👅 Learning Languages
+* 🥊 Kickboxing
 
 <small>Profile image credit: ["Brussels by night" by Nitin Paul](https://www.flickr.com/photos/nitin_paul/31568673675)</small>
 
-<!-- 👀 -->
+<!-- I 👀 U -->
