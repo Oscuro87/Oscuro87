@@ -7,7 +7,7 @@ I'm a senior developer at [Efficy](https://www.efficy.com/)
   * After getting in, write `!notabot` to get basic permissions
 * Telegram: [Join channel](https://t.me/+ekR3vDtRhYhkZDNk)
 
-### What I like (besides computer stuff)
+### What I like
 * 🏠 Home Automation
 * 🧬 Biotechnologies
 * 🤖 Robotics / AI
