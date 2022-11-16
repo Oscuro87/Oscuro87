@@ -16,6 +16,7 @@ I'm a senior developer at [Efficy](https://www.efficy.com/)
 * 🔍 OSINT
 * 🎵 Electronic Music
 * 🎮 Video Games
+* ✈ Traveling
 * 👅 Learning Languages
 * 🥊 Kickboxing
 * More
