@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm a senior developer at [Efficy](https://www.efficy.com/) (Will I be replaced by ChatGPT soon? 😆)
+
 I'm also a Rust enthusiast.
 
 ### 📫 How to reach me:
