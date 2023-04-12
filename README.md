@@ -19,7 +19,7 @@ I'm a senior developer at [Efficy](https://www.efficy.com/)
 * ✈ Traveling
 * 👅 Learning Languages
 * 🥊 Kickboxing
-* More
+* ➕ More
 
 <small>Profile image credit: ["Brussels by night" by Nitin Paul](https://www.flickr.com/photos/nitin_paul/31568673675)</small>
 
