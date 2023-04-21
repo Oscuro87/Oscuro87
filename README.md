@@ -7,7 +7,6 @@ I'm also a Rust enthusiast.
 * [LinkedIn](https://www.linkedin.com/in/emmanuelcapelle1)
 * Discord: [Join server](https://discord.gg/jchFsrzxtE)
   * After getting in, write `!notabot` to get basic permissions (The bot was written in Rust btw)
-* Telegram: [Join channel](https://t.me/+ekR3vDtRhYhkZDNk)
 
 ### What I like
 * 🏠 Home Automation
