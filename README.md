@@ -13,6 +13,7 @@ I'm also a Rust 🦀 enthusiast.
 * 🧬 Biotechnologies
 * 🤖 Robotics / AI
 * 📈 Finance & investments
+* 🩸 Medical Sciences
 * ₿ Blockchain
 * 🔍 OSINT
 * 🎵 Electronic Music Production
