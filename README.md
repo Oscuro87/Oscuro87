@@ -9,18 +9,17 @@ I'm also a Rust 🦀 enthusiast.
   * After getting in, write `!notabot` to get basic permissions (The bot was written in Rust btw)
 
 ### What I like
-* 🏠 Home Automation
-* 🧬 Biotechnologies
-* 🤖 Robotics / AI
+* 🥊 Kickboxing
+* 🤖 AI and robotics
 * 📈 Finance & investments
-* 🩸 Medical Sciences
-* ₿ Blockchain
+* 🩸 Medical Technology
+* 🧬 Biotechnologies
+* 🏠 Home Automation
 * 🔍 OSINT
 * 🎵 Electronic Music Production
 * 🎮 Video Games
 * ✈ Traveling
 * 👅 Learning Languages
-* 🥊 Kickboxing
 * ➕ More 🧘‍♂️ ✒ 👨‍🍳 🐤 ...
 
 <small>Profile image credit: ["Brussels by night" by Nitin Paul](https://www.flickr.com/photos/nitin_paul/31568673675)</small>
