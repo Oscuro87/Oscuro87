@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a senior developer at [Efficy](https://www.efficy.com/) (Will I be replaced by ChatGPT soon? 😆)
+I'm a senior developer at [Efficy](https://www.efficy.com/)
 
 I'm also a Rust 🦀 enthusiast.
 
@@ -12,15 +12,14 @@ I'm also a Rust 🦀 enthusiast.
 * 🥊 Kickboxing
 * 🤖 AI and robotics
 * 📈 Finance & investments
-* 🩸 Medical Technology
-* 🧬 Biotechnologies
+* 🧬 Biotechnology
 * 🏠 Home Automation
 * 🔍 OSINT
 * 🎵 Electronic Music Production
 * 🎮 Video Games
 * ✈ Traveling
 * 👅 Learning Languages
-* ➕ More 🧘‍♂️ ✒ 👨‍🍳 🐤 ...
+* ➕ More 🧘‍♂️ ✒ 👨‍🍳 🐤 🦊...
 
 <small>Profile image credit: ["Brussels by night" by Nitin Paul](https://www.flickr.com/photos/nitin_paul/31568673675)</small>
 
