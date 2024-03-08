@@ -6,7 +6,6 @@ I'm also a Rust 🦀 enthusiast.
 ### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/emmanuelcapelle1)
 * Discord: [Join server](https://discord.gg/jchFsrzxtE)
-  * After getting in, write `!notabot` to get basic permissions (The bot was written in Rust btw)
 
 ### What I like
 * 🥊 Kickboxing
